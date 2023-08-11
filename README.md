@@ -18,7 +18,7 @@ Hi There 👋🏾
 
 
 <br/>
-<br/>
+
 ### Get in touch!
 
 <a href="https://www.linkedin.com/in/aaron-m-248198230/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  />
@@ -26,7 +26,8 @@ Hi There 👋🏾
 
 
 </div>
-	
+
+<br/>
 
 ### &#x1f4c8; My GitHub Stats
 
