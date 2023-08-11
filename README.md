@@ -1,13 +1,29 @@
-### Hi There👋🏽
+Hi There 👋🏾
+========================================================================================================================================
 
-<div align="center">
-	
-## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+🌍  Bracknell, UK
+<br/>
+<br/>
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
+&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
+&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
+
+
+<br/>
+<br/>
+### Get in touch!
 
 <a href="https://www.linkedin.com/in/aaron-m-248198230/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  />
 <a href="mailto:aaronmerchant123@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
-<a href="https://stackoverflow.com/users/17785640/aaron-merchant"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=Stack Overflow&logoColor=white"  alt="Stack Overflow" /></a>
-<a href="https://replit.com/@AaronMerchant"><img src="https://img.shields.io/badge/Repl-0E1525?style=for-the-badge&logo=Replit&logoColor=white"  alt="Stack Overflow" /></a>
+
 
 </div>
 	
